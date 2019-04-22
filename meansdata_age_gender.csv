@@ -1,0 +1,3 @@
+age_category,DebtBondage_ct,TakesEarnings_ct,RestrictsFinancialAccess_ct,Threats_ct,PsychologicalAbuse_ct,PhysicalAbuse_ct,SexualAbuse_ct,FalsePromises_ct,PsychoactiveSubstances_ct,RestrictsMovement_ct,RestrictsMedicalCare_ct,ExcessiveWorkingHours_ct,UsesChildren_ct,ThreatOfLawEnforcement_ct,WithholdsNecessities_ct,WithholdsDocuments_ct,Other_ct,NotSpecified_ct
+adult,1117,2344.0,74,2561.0,2992,2132.0,804,2245.0,1057,2823.0,1304,1931.0,72,721.0,1152,1871.0,971,16110.0
+child,60,96.0,5,331.0,592,406.0,221,196.0,387,364.0,11,52.0,1,18.0,98,5.0,206,5948.0

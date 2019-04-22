@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Trafficking Data - {% block title %}{% endblock %}</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}"/> -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+<body>
+  <nav class="navbar bg-light navbar-light navbar-expand-lg">
+    <a class="navbar-brand navbar-default" href="/">Data For Hope</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Methods of Control
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/visualizations/control">Map</a>
+            <a class="dropdown-item" href="/visualizations/control-age">By Age</a>
+            <a class="dropdown-item" href="/visualizations/control-gender">By Gender</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/visualizations/labour-map">Exploitation Type</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/visualizations/flight-map">International Trafficked Map</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Additional Resources
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="/data-dictionary">Data Dictionary</a>
+            <a class="dropdown-item" href="/credits">Credits</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div id="container" style="height:93%">{% block content %}{% endblock %}</div>
+</body>
+</html>

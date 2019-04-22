@@ -1,0 +1,1792 @@
+var meansdata ={
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "2",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "12",
+				"PsychologicalAbuse_cnt": "13",
+				"PhysicalAbuse_cnt": "11",
+				"SexualAbuse_cnt": "5",
+				"FalsePromises_cnt": "3",
+				"PsychoactiveSubstances_cnt": "9",
+				"RestrictsMovement_cnt": "13",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "1",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "2",
+				"WithholdsNecessities_cnt": "3",
+				"WithholdsDocuments_cnt": "2",
+				"Other_cnt": "9",
+				"meansofcontrol_total": 22305,
+				"latitude": "37",
+				"longitude": "-95",
+				"name": "United States"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.712891,
+					37.09024
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "6",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "6",
+				"PsychoactiveSubstances_cnt": "6",
+				"RestrictsMovement_cnt": "6",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessieWorkingHours_cnt": "6",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "6",
+				"WithholdsNecessities_cnt": "6",
+				"WithholdsDocuments_cnt": "6",
+				"Other_cnt": "6",
+				"meansofcontrol_total": 13962,
+				"latitude": "12",
+				"longitude": "104",
+				"name": "Cambodia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.990963,
+					12.565679
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "4",
+				"TakesEarnings_cnt": "11",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "9",
+				"PsychologicalAbuse_cnt": "10",
+				"PhysicalAbuse_cnt": "5",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "11",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "10",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "11",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "3",
+				"WithholdsNecessities_cnt": "4",
+				"WithholdsDocuments_cnt": "10",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 11032,
+				"latitude": "61",
+				"longitude": "105",
+				"name": "Russia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					105.31875600000001,
+					61.52401
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "8",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "8",
+				"PsychologicalAbuse_cnt": "8",
+				"PhysicalAbuse_cnt": "8",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "9",
+				"PsychoactiveSubstances_cnt": "3",
+				"RestrictsMovement_cnt": "8",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "7",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "4",
+				"WithholdsNecessities_cnt": "4",
+				"WithholdsDocuments_cnt": "7",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 3936,
+				"latitude": "48",
+				"longitude": "31",
+				"name": "Ukraine"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					31.16558,
+					48.379433
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "6",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "7",
+				"PsychoactiveSubstances_cnt": "6",
+				"RestrictsMovement_cnt": "6",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "6",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "6",
+				"WithholdsNecessities_cnt": "6",
+				"WithholdsDocuments_cnt": "6",
+				"Other_cnt": "7",
+				"meansofcontrol_total": 1655,
+				"latitude": "4",
+				"longitude": "101",
+				"name": "Malaysia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					101.97576600000001,
+					4.210483999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "5",
+				"TakesEarnings_cnt": "11",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "10",
+				"PsychologicalAbuse_cnt": "7",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "1",
+				"FalsePromises_cnt": "11",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "10",
+				"RestrictsMedicalCare_cnt": "7",
+				"ExcessiveWorkingHours_cnt": "8",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "2",
+				"WithholdsNecessities_cnt": "8",
+				"WithholdsDocuments_cnt": "5",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 874,
+				"latitude": "48",
+				"longitude": "66",
+				"name": "Kazakhstan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					66.923684,
+					48.019573
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "11",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "3",
+				"PsychologicalAbuse_cnt": "10",
+				"PhysicalAbuse_cnt": "4",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "12",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "13",
+				"RestrictsMedicalCare_cnt": "4",
+				"ExcessiveWorkingHours_cnt": "14",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "8",
+				"WithholdsDocuments_cnt": "9",
+				"Other_cnt": "7",
+				"meansofcontrol_total": 722,
+				"latitude": "0",
+				"longitude": "113",
+				"name": "Indonesia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					113.921327,
+					-0.789275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "9",
+				"TakesEarnings_cnt": "10",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "11",
+				"PsychologicalAbuse_cnt": "11",
+				"PhysicalAbuse_cnt": "5",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "11",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "11",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "11",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "1",
+				"WithholdsDocuments_cnt": "11",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 505,
+				"latitude": "51",
+				"longitude": "19",
+				"name": "Poland"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.145135999999999,
+					51.919438
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "10",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "8",
+				"PsychologicalAbuse_cnt": "7",
+				"PhysicalAbuse_cnt": "10",
+				"SexualAbuse_cnt": "1",
+				"FalsePromises_cnt": "4",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "11",
+				"RestrictsMedicalCare_cnt": "5",
+				"ExcessiveWorkingHours_cnt": "14",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "3",
+				"WithholdsNecessities_cnt": "7",
+				"WithholdsDocuments_cnt": "14",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 492,
+				"latitude": "30",
+				"longitude": "36",
+				"name": "Jordan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					36.238414,
+					30.585164000000004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "6",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "6",
+				"PsychoactiveSubstances_cnt": "6",
+				"RestrictsMovement_cnt": "6",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "6",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "6",
+				"WithholdsNecessities_cnt": "6",
+				"WithholdsDocuments_cnt": "6",
+				"Other_cnt": "6",
+				"meansofcontrol_total": 465,
+				"latitude": "22",
+				"longitude": "114",
+				"name": "Hong Kong"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					114.10949699999999,
+					22.396428
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "2",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "5",
+				"PsychologicalAbuse_cnt": "10",
+				"PhysicalAbuse_cnt": "8",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "13",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "10",
+				"RestrictsMedicalCare_cnt": "3",
+				"ExcessiveWorkingHours_cnt": "12",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "3",
+				"WithholdsNecessities_cnt": "8",
+				"WithholdsDocuments_cnt": "13",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 381,
+				"latitude": "33",
+				"longitude": "35",
+				"name": "Lebanon"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.862285,
+					33.854721000000008
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "29",
+				"PhysicalAbuse_cnt": "34",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "19",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "15",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 307,
+				"latitude": "18",
+				"longitude": "-72",
+				"name": "Haiti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-72.28521500000001,
+					18.971187
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "6",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "6",
+				"PsychoactiveSubstances_cnt": "6",
+				"RestrictsMovement_cnt": "6",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "6",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "6",
+				"WithholdsNecessities_cnt": "6",
+				"WithholdsDocuments_cnt": "6",
+				"Other_cnt": "6",
+				"meansofcontrol_total": 240,
+				"latitude": "14",
+				"longitude": "108",
+				"name": "Vietnam"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					108.277199,
+					14.058323999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "1",
+				"TakesEarnings_cnt": "13",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "3",
+				"PsychologicalAbuse_cnt": "10",
+				"PhysicalAbuse_cnt": "4",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "9",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "12",
+				"RestrictsMedicalCare_cnt": "4",
+				"ExcessiveWorkingHours_cnt": "16",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "1",
+				"WithholdsNecessities_cnt": "8",
+				"WithholdsDocuments_cnt": "14",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 187,
+				"latitude": "23",
+				"longitude": "53",
+				"name": "United Arab Emirates"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					53.847818000000007,
+					23.424076
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "6",
+				"TakesEarnings_cnt": "6",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "6",
+				"PhysicalAbuse_cnt": "6",
+				"SexualAbuse_cnt": "6",
+				"FalsePromises_cnt": "6",
+				"PsychoactiveSubstances_cnt": "6",
+				"RestrictsMovement_cnt": "6",
+				"RestrictsMedicalCare_cnt": "6",
+				"ExcessiveWorkingHours_cnt": "6",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "6",
+				"WithholdsNecessities_cnt": "6",
+				"WithholdsDocuments_cnt": "6",
+				"Other_cnt": "6",
+				"meansofcontrol_total": 165,
+				"latitude": "15",
+				"longitude": "100",
+				"name": "Thailand"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					100.992541,
+					15.870032
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "7",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "15",
+				"PsychologicalAbuse_cnt": "16",
+				"PhysicalAbuse_cnt": "22",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "31",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "4",
+				"meansofcontrol_total": 126,
+				"latitude": "1",
+				"longitude": "32",
+				"name": "Uganda"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					32.290275,
+					1.373333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "1",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "6",
+				"PsychologicalAbuse_cnt": "1",
+				"PhysicalAbuse_cnt": "3",
+				"SexualAbuse_cnt": "11",
+				"FalsePromises_cnt": "27",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "19",
+				"RestrictsMedicalCare_cnt": "2",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "5",
+				"Other_cnt": "18",
+				"meansofcontrol_total": 118,
+				"latitude": "35",
+				"longitude": "104",
+				"name": "China"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					104.195397,
+					35.86166
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "15",
+				"PsychologicalAbuse_cnt": "17",
+				"PhysicalAbuse_cnt": "15",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "10",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "1",
+				"RestrictsMedicalCare_cnt": "13",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "11",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "14",
+				"meansofcontrol_total": 69,
+				"latitude": "26",
+				"longitude": "30",
+				"name": "Egypt"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					30.802497999999998,
+					26.820553000000005
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "16",
+				"PsychologicalAbuse_cnt": "28",
+				"PhysicalAbuse_cnt": "16",
+				"SexualAbuse_cnt": "30",
+				"FalsePromises_cnt": "3",
+				"PsychoactiveSubstances_cnt": "1",
+				"RestrictsMovement_cnt": "1",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 59,
+				"latitude": "53",
+				"longitude": "27",
+				"name": "Belarus"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					27.953389,
+					53.709807
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "7",
+				"TakesEarnings_cnt": "2",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "5",
+				"PhysicalAbuse_cnt": "2",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "80",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "2",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 40,
+				"latitude": "33",
+				"longitude": "67",
+				"name": "Afghanistan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					67.709953,
+					33.93911
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "100",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 12,
+				"latitude": "23",
+				"longitude": "45",
+				"name": "Saudi Arabia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					45.079162,
+					23.885942
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "16",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "16",
+				"PsychologicalAbuse_cnt": "16",
+				"PhysicalAbuse_cnt": "16",
+				"SexualAbuse_cnt": "16",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "16",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 6,
+				"latitude": "38",
+				"longitude": "35",
+				"name": "Turkey"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					35.243322,
+					38.963745
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "100",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 1,
+				"latitude": "10",
+				"longitude": "-61",
+				"name": "Trinidad and Tobago"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-61.222503,
+					10.691803
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "1",
+				"longitude": "103",
+				"name": "Singapore"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					103.819836,
+					1.352083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "45",
+				"longitude": "24",
+				"name": "Romania"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					24.96676,
+					45.943160999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "41",
+				"longitude": "64",
+				"name": "Uzbekistan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					64.585262,
+					41.377491
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "8",
+				"longitude": "-11",
+				"name": "Sierra Leone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-11.779889,
+					8.460555000000002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "23",
+				"longitude": "120",
+				"name": "Taiwan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.96051499999999,
+					23.69781
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "14",
+				"longitude": "-14",
+				"name": "Senegal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-14.452361999999999,
+					14.497401000000002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "34",
+				"longitude": "38",
+				"name": "Syria"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					38.996815000000008,
+					34.802075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "38",
+				"longitude": "59",
+				"name": "Turkmenistan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					59.556278000000009,
+					38.969719
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "38",
+				"longitude": "71",
+				"name": "Tajikistan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					71.276093,
+					38.861034000000007
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "25",
+				"longitude": "51",
+				"name": "Qatar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					51.183884,
+					25.354826
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "-18",
+				"longitude": "46",
+				"name": "Madagascar"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					46.869107,
+					-18.766947000000003
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "12",
+				"longitude": "121",
+				"name": "Philippines"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.77401699999999,
+					12.879721
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "21",
+				"longitude": "55",
+				"name": "Oman"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					55.923255000000008,
+					21.512583
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "41",
+				"longitude": "20",
+				"name": "Albania"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					20.168331,
+					41.153332
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "-38",
+				"longitude": "-63",
+				"name": "Argentina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-63.616671999999997,
+					-38.416097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "47",
+				"longitude": "14",
+				"name": "Austria"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.550072,
+					47.516231
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "43",
+				"longitude": "17",
+				"name": "Bosnia and Herzegovina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					17.679076000000003,
+					43.915886
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "42",
+				"longitude": "25",
+				"name": "Bulgaria"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					25.48583,
+					42.733883
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "25",
+				"longitude": "50",
+				"name": "Bahrain"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					50.637772,
+					25.930414000000004
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "35",
+				"longitude": "33",
+				"name": "Cyprus"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					33.429859,
+					35.126413
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "49",
+				"longitude": "15",
+				"name": "Czech Republic"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					15.472961999999999,
+					49.817492
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "56",
+				"longitude": "9",
+				"name": "Denmark"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					9.501785,
+					56.26392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "-1",
+				"longitude": "-78",
+				"name": "Ecuador"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.183406,
+					-1.8312389999999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "7",
+				"longitude": "-1",
+				"name": "Ghana"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.0231940000000002,
+					7.946527000000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "41",
+				"longitude": "12",
+				"name": "Italy"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					12.56738,
+					41.87194
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "36",
+				"longitude": "138",
+				"name": "Japan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					138.252924,
+					36.204824
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "29",
+				"longitude": "47",
+				"name": "Kuwait"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					47.481766,
+					29.311659999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "47",
+				"longitude": "28",
+				"name": "Moldova"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					28.369884999999998,
+					47.411631
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "41",
+				"longitude": "21",
+				"name": "Macedonia [FYROM]"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.745275,
+					41.608635
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "-20",
+				"longitude": "57",
+				"name": "Mauritius"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					57.552152,
+					-20.348404000000003
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"DebtBondage_cnt": "0",
+				"TakesEarnings_cnt": "0",
+				"RestrictsFinancialAccess_cnt": "0",
+				"Threats_cnt": "0",
+				"PsychologicalAbuse_cnt": "0",
+				"PhysicalAbuse_cnt": "0",
+				"SexualAbuse_cnt": "0",
+				"FalsePromises_cnt": "0",
+				"PsychoactiveSubstances_cnt": "0",
+				"RestrictsMovement_cnt": "0",
+				"RestrictsMedicalCare_cnt": "0",
+				"ExcessiveWorkingHours_cnt": "0",
+				"UsesChildren_cnt": "0",
+				"ThreatOfLawEnforcement_cnt": "0",
+				"WithholdsNecessities_cnt": "0",
+				"WithholdsDocuments_cnt": "0",
+				"Other_cnt": "0",
+				"meansofcontrol_total": 0,
+				"latitude": "-30",
+				"longitude": "22",
+				"name": "South Africa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					22.937506,
+					-30.559482
+				]
+			}
+		}
+	]
+}
+
+meansdata.features = meansdata.features.map( feature => {
+  feature.properties = _.mapValues(feature.properties, property_count => parseInt(property_count));
+  return feature;
+})

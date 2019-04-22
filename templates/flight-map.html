@@ -1,0 +1,33 @@
+{% extends "base-template.html" %}
+{% block title %}International Trafficking Map{% endblock %}
+{% block content %}
+<div style="height:100%">
+        <!-- The div where we will inject our map -->
+        <div id="map"></div>
+    
+    
+        <!-- Leaflet CSS & JS-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css"
+          crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet.js"
+          crossorigin=""></script>
+        <!-- Leaflet arc -->
+        <script src='https://unpkg.com/leaflet-arc/bin/leaflet-arc.min.js'></script>
+          
+          
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    
+        <!-- d3 JavaScript -->
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <!-- Our CSS -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/flight-style.css') }}">
+        
+        <!-- Data -->
+	    <script type="text/javascript" src="{{ url_for('static', filename='js/flight-data.js') }}"></script>
+        <!-- Chart keys and logic -->
+        <script type="text/javascript" src="{{ url_for('static', filename='config.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/flight-logic.js') }}"></script>
+    
+    
+</div>
+{% endblock %}
